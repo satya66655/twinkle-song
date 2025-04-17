@@ -1,8 +1,4 @@
 Twinkle twinkle, little star.
 How I wonder what you are.!
 Up Above the world so high,
-<<<<<<< HEAD
 Like a diamond in the sky....
-This is a bad line.
-=======
->>>>>>> parent of 0a96ac0 (Added fourth line)
